@@ -15,7 +15,7 @@
   "author": "Web-o-matic",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mateuszfrankowski/filmoteka/issues"
+    "url": "https://github.com/wojtek-a/filmoteka/issues"
   },
   "dependencies": {
     "axios": "^1.2.1",
