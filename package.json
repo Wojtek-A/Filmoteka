@@ -1,21 +1,21 @@
 {
-  "name": "filmoteka",
+  "name": "Filmoteka",
   "version": "2.0.0",
   "description": "",
-  "homepage": "wojtek-a.github.io/filmoteka/",
+  "homepage": "wojtek-a.github.io/Filmoteka/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /filmoteka/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wojtek-a/filmoteka.git"
+    "url": "git+https://github.com/wojtek-a/Filmoteka.git"
   },
   "keywords": [],
   "author": "Web-o-matic",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wojtek-a/filmoteka/issues"
+    "url": "https://github.com/wojtek-a/Filmoteka/issues"
   },
   "dependencies": {
     "axios": "^1.2.1",
